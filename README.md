@@ -144,5 +144,14 @@ Personal/portfolio project. Feel free to use this as a learning reference or sta
 
 ## 👤 Author
 
-**Christian G. Maranan** — kréi / Krei Labs
-GitHub: [@krei-labs](https://github.com/krei-labs)
+**Christian G. Maranan**
+Computer Engineering Student — Major in Machine Learning
+at Tanauan City College
+
+- **GitHub:** [@krei-labs](https://github.com/krei-labs)
+- **Instagram:** [@krei_in](https://instagram.com/krei_in)
+- **Email:** [christianmaranan0303@gmail.com](mailto:christianmaranan0303@gmail.com)
+
+---
+
+<p align="center"><strong>Build. Learn. Experiment.</strong> — kréi / Krei Labs</p>
