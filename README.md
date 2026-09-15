@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="./readme-banner.png" alt="An Infinite Garden banner" width="600">
 </p>
 
